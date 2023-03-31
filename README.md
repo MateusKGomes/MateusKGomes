@@ -1,6 +1,5 @@
 ### Olá 👋
  
- Escolhi fazer minha transição de carreira e hoje sou desenvolvedor front-end. 
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusKGomes&show_icons=true&theme=dark)
 
