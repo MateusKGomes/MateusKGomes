@@ -7,9 +7,9 @@
 Tecnologias
 
 • Linguagens de programação: Java, JavaScript, e TypeScript. <br>
-• Front-end: React, HTML, CSS.
-• Back-end: Ecossistema Spring(Spring MVC e Spring Boot), JPA e Hibernate, Node.js, Express.js,
-Sequelize, MongoDB e Banco de dados relacional e SQL.
-• Controle de versão: Git.
-• Docker.
-• Metodologias ágeis: Scrum e Kanban.
+• Front-end: React, HTML, CSS. <br>
+• Back-end: Ecossistema Spring(Spring MVC e Spring Boot), JPA e Hibernate, Node.js, Express.js, <br>
+Sequelize, MongoDB e Banco de dados relacional e SQL.<br>
+• Controle de versão: Git.<br>
+• Docker.<br>
+• Metodologias ágeis: Scrum e Kanban.<br>
