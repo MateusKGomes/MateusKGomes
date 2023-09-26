@@ -6,7 +6,7 @@
 
 Tecnologias
 
-• Linguagens de programação: Java, JavaScript, e TypeScript.
+• Linguagens de programação: Java, JavaScript, e TypeScript. <br>
 • Front-end: React, HTML, CSS.
 • Back-end: Ecossistema Spring(Spring MVC e Spring Boot), JPA e Hibernate, Node.js, Express.js,
 Sequelize, MongoDB e Banco de dados relacional e SQL.
