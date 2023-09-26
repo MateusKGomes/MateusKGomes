@@ -4,6 +4,12 @@
 
 
 
-Tecnologias 
+Tecnologias
 
-![image]({https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white})
+• Linguagens de programação: Java, JavaScript, e TypeScript.
+• Front-end: React, HTML, CSS.
+• Back-end: Ecossistema Spring(Spring MVC e Spring Boot), JPA e Hibernate, Node.js, Express.js,
+Sequelize, MongoDB e Banco de dados relacional e SQL.
+• Controle de versão: Git.
+• Docker.
+• Metodologias ágeis: Scrum e Kanban.
